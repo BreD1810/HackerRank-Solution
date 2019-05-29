@@ -56,3 +56,4 @@ dkms.conf
 
 #VSCode
 *.code-workspace
+**/.vscode
